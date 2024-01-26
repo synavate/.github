@@ -1,6 +1,6 @@
 # Welcome to Synapse: Mapping the Future
 
-!([image.png](https://github.com/synavate/.github/raw/main/image.png))
+!([SYNAPSE](Synapse.png))
 
 ---
 
