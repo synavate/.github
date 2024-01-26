@@ -1,6 +1,6 @@
 # Welcome to Synapse: Mapping the Future
 
-![SYNAPSE](Synapse.png)
+![SYNAPSE](../Synapse.png)
 
 ---
 
