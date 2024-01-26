@@ -1,6 +1,6 @@
 # Welcome to Synapse: Mapping the Future
 
-![Synapse Header Image](../image.png)
+![Synapse Header Image](image.png)
 
 ---
 
