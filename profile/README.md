@@ -6,6 +6,8 @@
 
 ## 📣 ANNOUNCEMENT 📣
 
+### ### Synavate has been accepted into the Google AI Startup Program 🚀 ###
+
 **Synapse v0.0.2 POC** is now in **active development**, following a successful research phase, and launching on **GCP** for evaluation.
 This milestone marks a significant step forward in our project. We have refactored into a microsesrvice architecture with RabbitMQ messaging.
 
