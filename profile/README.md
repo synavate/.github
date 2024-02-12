@@ -5,8 +5,6 @@
 ![License](https://img.shields.io/github/license/synavate/synapse-monorepo?style=flat-square)
 ![Python Version](https://img.shields.io/badge/python-3.10.11-blue.svg?style=flat-square&logo=python)
 ![PyTorch Version](https://img.shields.io/badge/pytorch-2.0%2B-blue.svg?style=flat-square&logo=pytorch)
-![MLFlow](https://img.shields.io/badge/MLFlow-1.x-blue.svg?style=flat-square&logo=mlflow)
-![Docker Build](https://img.shields.io/docker/build/synavate/synapse?style=flat-square&logo=docker)
 ![Next.js Version](https://img.shields.io/badge/next.js-10.11-black.svg?style=flat-square&logo=next.js)
 ![D3.js Version](https://img.shields.io/badge/D3.js-6.x-yellow.svg?style=flat-square&logo=d3.js)
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/synavate/synapse-monorepo/CI/main?style=flat-square&logo=github)
