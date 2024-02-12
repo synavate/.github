@@ -1,4 +1,4 @@
-# Welcome to Synapse: Mapping the Future
+# Welcome to Synapse: Mapping the Future - Your thread never stops
 [
 ![Build Status](https://img.shields.io/cirrus/github/synavatae/synapse-monorepo))
 ![Release](https://img.shields.io/github/v/release/synavate/synapse-monorepo?style=flat-square&logo=github)
@@ -6,8 +6,8 @@
 ![Python Version](https://img.shields.io/badge/python-3.10.11-blue.svg?style=flat-square&logo=python)
 ![PyTorch Version](https://img.shields.io/badge/pytorch-2.0%2B-blue.svg?style=flat-square&logo=pytorch)
 ![Next.js Version](https://img.shields.io/badge/next.js-10.11-black.svg?style=flat-square&logo=next.js)
-![D3.js Version](https://img.shields.io/badge/D3.js-6.x-yellow.svg?style=flat-square&logo=d3.js)
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/synavate/synapse-monorepo/CI/main?style=flat-square&logo=github)
+![D3.js Version](https://img.shields.io/badge/D3.js-7.8.5-yellow.svg?style=flat-square&logo=d3.js)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/synavate/synapse-monorepo/develop?style=flat-square&logo=github)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/synavate/synapse-monorepo?style=flat-square&logo=github)
 
 
@@ -17,7 +17,7 @@
 
 ### ### Synavate has been accepted into the Google AI Startup Program 🚀 ###
 
-**Synapse v0.0.2 POC** is now in **active development**, following a successful research phase, and launching on **GCP** for evaluation.
+**Synapse v0.0.3 POC** is now in **active development**, following a successful research phase, and launching on **GCP** for evaluation.
 This milestone marks a significant step forward in our project. We have refactored into a microsesrvice architecture with RabbitMQ messaging.
 
 Watch this space for more updates as we progress! 🚀
