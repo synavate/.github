@@ -1,4 +1,4 @@
-# Welcome to Synapse: Mapping the Future - Your thread never stops
+# Welcome to Synapse: Mapping the Future - Expanding at the edges of your knowledge, in your language.
 [
 ![Build Status](https://img.shields.io/cirrus/github/synavatae/synapse-monorepo))
 ![Release](https://img.shields.io/github/v/release/synavate/synapse-monorepo?style=flat-square&logo=github)
