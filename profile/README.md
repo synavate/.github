@@ -5,6 +5,8 @@
     "Get comfortable with being uncomfortable"
 
 ---
+![GitHub Pre-Release](https://img.shields.io/github/v/release/synavate/synapse-monorepo?include_prereleases&display_name=tag&style=flat&logo=github)
+
 
 ## 📣 ANNOUNCEMENT 📣
 
