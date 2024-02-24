@@ -1,6 +1,8 @@
 # Welcome to Synavate: 
-### Experimentation::Validation::Productisation of Interesting Concepts.
-### "Get comfortable with being uncomfortable"
+### Experimentation::Validation::Productisation
+
+***Exploring Interesting Concepts***
+    "Get comfortable with being uncomfortable"
 
 ---
 
