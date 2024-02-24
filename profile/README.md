@@ -1,4 +1,5 @@
-# Welcome to Synapse: Mapping the Future - Expanding at the edges of your knowledge, in your language.
+# Welcome to Synavate: Experimentation and Productisation of Novel Concepts.
+### "Get comfortable with being uncomfortable"
 
 ---
 
