@@ -1,9 +1,4 @@
 # Welcome to Synapse: Mapping the Future - Expanding at the edges of your knowledge, in your language.
-[
-![Build Status](https://img.shields.io/cirrus/github/synavatae/synapse-monorepo))
-[![Release](https://img.shields.io/github/v/release/synavate/synapse-monorepo&include_prereleases=true))
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/synavate/synapse-monorepo/develop?style=flat-square&logo=github)
 
 ---
 
