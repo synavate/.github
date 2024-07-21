@@ -8,7 +8,7 @@
 ![GitHub Pre-Release](https://img.shields.io/github/v/release/synavate/synapse-monorepo?include_prereleases&display_name=tag&style=flat&logo=github)
 ## 🫶✌️ Related Synavate Projects ✌️🫶 ## 
 
-- ![Orion AI Threat Intelligence](https://www.github.com/orion-constellation)
+- ![Orion AI Threat Intelligence](https://.   www.github.com/orion-constellation)
     - orion-distributed: distributing threat intel after deep analysis at data collection
         - Human hand off where required
         - Strict data handling
